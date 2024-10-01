@@ -1,0 +1,6 @@
+[submodule "Sales-And-Inventory-Management-System"]
+	path = Sales-And-Inventory-Management-System
+	url = https://github.com/MrSilent2001/Sales-And-Inventory-Management-System.git
+[submodule "Tradeasy-Backend"]
+	path = Tradeasy-Backend
+	url = https://github.com/KavithRashintha/Tradeasy-Backend
